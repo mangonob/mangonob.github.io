@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_init=self.webpackChunkreact_init||[]).push([[4602],{4602:(e,s,t)=>{e.exports=t.p+"static/images/65d14d504c14761579f8.svg"}}]);

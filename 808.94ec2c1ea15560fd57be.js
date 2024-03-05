@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_init=self.webpackChunkreact_init||[]).push([[808],{808:(e,t,n)=>{n.r(t),n.d(t,{default:()=>u});var a=n(9474),r=n(3648);function u(e){var t=e.path,n=(0,r.Zp)();return(0,a.useEffect)((function(){n(t)}),[n,t]),a.createElement(a.Fragment,null)}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_init=self.webpackChunkreact_init||[]).push([[8969],{8969:(e,t,a)=>{a.r(t),a.d(t,{WatchlistManage:()=>c});var n=a(9474);function c(){return n.createElement(n.Fragment,null,"WatchlistManage")}}}]);

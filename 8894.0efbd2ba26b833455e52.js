@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_init=self.webpackChunkreact_init||[]).push([[8894],{8894:(e,t,s)=>{s.r(t),s.d(t,{ChatMessageTypes:()=>a,chatMessageTypeDescription:()=>c});var a=["text","image"];function c(e){switch(e){case"image":return"图片";case"text":return"文本"}}}}]);
