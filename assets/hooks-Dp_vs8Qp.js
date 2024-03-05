@@ -1,0 +1,1 @@
+import{B as r,D as o,E as s}from"./App-Dsb7JyUI.js";const u=r(o((e,a)=>({mode:"chat",unreadCount:0,update(t){e({...a(),...t})}}),{name:"WECHAT_CHAT_GENERAL_SETTINGS",storage:s(()=>localStorage)}));export{u};

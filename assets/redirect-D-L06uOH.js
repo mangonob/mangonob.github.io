@@ -1,0 +1,1 @@
+import{r as s,j as r}from"./index-iRfHkg0E.js";import{z as o}from"./App-Dsb7JyUI.js";function c(a){const{path:t}=a,e=o();return s.useEffect(()=>{e(t)},[e,t]),r.jsx(r.Fragment,{})}export{c as default};
